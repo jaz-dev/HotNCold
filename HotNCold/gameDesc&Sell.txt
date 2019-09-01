@@ -1,0 +1,8 @@
+
+Description (including why you feel this game is unique):
+
+HotNCold is a fun and original single player arcade game for iOS and Android.  It involves the player tapping the screen to move around and collect as many gems as possible.  However, these gems are hidden one at a time and the player must find them using visual cues.  The entire back drop of the game shifts in color between the range of blue and hot pink based on the player's proximity to the gem.  The further or "colder" from the gem, the bluer the screen becomes while the closer or "hotter" to the gem, the pinker it becomes.  While the player is searching for gems, he must also dodge missiles coming at him from all directions in order to stay alive.  Additionally, in Rush Mode, the player must also battle against time, making the game more fast-paced and exciting.  HotNCold is a minimalist indie game that combines the classic thrill of dodging projectiles with the satisfaction of finding what you're looking for in a unique way that makes it a blast to play!
+
+testflight@nanovationlabs.com
+tester2@nanovationlabs.com
+tester3@nanovationlabs.com

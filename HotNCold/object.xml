@@ -1,0 +1,310 @@
+<?xml version="1.0" encoding="utf-8"?>
+<game GSCVersion="1.25.6227" PGFVersion="0.25" title="My Great Project">
+  <tags />
+  <resolutionIndependence>0</resolutionIndependence>
+  <instructions>Add game instructions here.</instructions>
+  <resolution>15</resolution>
+  <longDescription>A simple game.</longDescription>
+  <prototypes>
+    <actor id="id643175" />
+    <actor id="id119180" />
+    <actor id="id289225" />
+    <actor id="id137644" />
+    <actor id="id721011" />
+    <actor id="id605507" />
+    <actor id="id307477" />
+    <actor id="id990787" />
+    <actor id="id424877" />
+    <actor id="id360900" />
+    <actor id="id879010" />
+    <actor id="id189174" />
+    <actor id="id613453" />
+    <actor id="id168499" />
+    <actor id="id341443" />
+    <actor id="id910863" />
+    <actor id="id288830" />
+    <actor id="id472739" />
+    <actor id="id522337" />
+    <actor id="id716937" />
+    <actor id="id386061" />
+    <actor id="id303079" />
+    <actor id="id427835" />
+    <actor id="id255636" />
+    <actor id="id779034" />
+    <actor id="id563672" />
+    <actor id="id963316" />
+    <actor id="id687192" />
+    <actor id="id892799" />
+    <actor id="id254642" />
+    <actor id="id971276" />
+    <actor id="id212056" />
+    <actor id="id292634" />
+    <actor id="id191463" />
+    <actor id="id899776" />
+    <actor id="id894678" />
+    <actor id="id854202" />
+    <actor id="id777125" />
+    <actor id="id969747" />
+    <actor id="id399922" />
+    <actor id="id205788" />
+    <actor id="id760186" />
+    <actor id="id205985" />
+    <actor id="id720653" />
+    <actor id="id117718" />
+    <actor id="id950341" />
+    <actor id="id885114" />
+    <actor id="id688380" />
+    <actor id="id187057" />
+    <actor id="id407941" />
+    <actor id="id272095" />
+    <actor id="id864629" />
+    <actor id="id939829" />
+    <actor id="id216532" />
+    <actor id="id566613" />
+    <actor id="id614265" />
+    <actor id="id326122" />
+    <actor id="id363164" />
+    <actor id="id563797" />
+    <actor id="id803099" />
+    <actor id="id483959" />
+    <actor id="id382540" />
+    <actor id="id796056" />
+    <actor id="id668590" />
+    <actor id="id256296" />
+    <actor id="id603327" />
+    <actor id="id615113" />
+    <actor id="id169755" />
+    <actor id="id569671" />
+    <actor id="id628289" />
+    <actor id="id408530" />
+    <actor id="id436777" />
+    <actor id="id424330" />
+    <actor id="id267789" />
+    <actor id="id418839" />
+    <actor id="id497221" />
+    <actor id="id195031" />
+    <actor id="id529428" />
+    <actor id="id128921" />
+    <actor id="id336400" />
+    <actor id="id227316" />
+    <actor id="id242836" />
+    <actor id="id554377" />
+    <actor id="id868871" />
+    <actor id="id301569" />
+    <actor id="id979206" />
+    <actor id="id182010" />
+    <actor id="id479407" />
+    <actor id="id949131" />
+    <actor id="id566266" />
+    <actor id="id958575" />
+    <actor id="id844375" />
+    <actor id="id208259" />
+    <actor id="id760538" />
+    <actor id="id392480" />
+    <actor id="id465690" />
+    <actor id="id545993" />
+  </prototypes>
+  <plugins />
+  <scenes>
+    <scene id="id414508" />
+    <scene id="id655935" />
+    <scene id="id109698" />
+    <scene id="id643984" />
+    <scene id="id483317" />
+    <scene id="id593482" />
+    <scene id="id554990" />
+    <scene id="id719606" />
+    <scene id="id775743" />
+    <scene id="id389765" />
+    <scene id="id273341" />
+  </scenes>
+  <attributes>
+    <text id="name">HotNCold</text>
+    <real id="time">0</real>
+    <integer id="randomSeed">-1</integer>
+    <size id="displaySize">
+      <real id="width">375</real>
+      <real id="height">667</real>
+    </size>
+    <text id="actorTags">All	death weapons	walls	pause screen actors</text>
+    <boolean id="platformConnected">false</boolean>
+    <enumeration id="playerType">1</enumeration>
+    <playermap id="player1 Keymap">
+      <text id="dpadUp" />
+      <text id="dpadDown" />
+      <text id="dpadLeft" />
+      <text id="dpadRight" />
+      <text id="buttonX" />
+      <text id="buttonY" />
+      <text id="buttonA" />
+      <text id="buttonB" />
+      <text id="start" />
+      <text id="select" />
+      <text id="leftShoulder1" />
+      <text id="rightShoulder1" />
+      <text id="leftShoulder2" />
+      <text id="rightShoulder2" />
+      <text id="leftStickClick" />
+      <text id="rightStickClick" />
+    </playermap>
+    <playermap id="player2 Keymap">
+      <text id="dpadUp" />
+      <text id="dpadDown" />
+      <text id="dpadLeft" />
+      <text id="dpadRight" />
+      <text id="buttonX" />
+      <text id="buttonY" />
+      <text id="buttonA" />
+      <text id="buttonB" />
+      <text id="start" />
+      <text id="select" />
+      <text id="leftShoulder1" />
+      <text id="rightShoulder1" />
+      <text id="leftShoulder2" />
+      <text id="rightShoulder2" />
+      <text id="leftStickClick" />
+      <text id="rightStickClick" />
+    </playermap>
+    <playermap id="player3 Keymap">
+      <text id="dpadUp" />
+      <text id="dpadDown" />
+      <text id="dpadLeft" />
+      <text id="dpadRight" />
+      <text id="buttonX" />
+      <text id="buttonY" />
+      <text id="buttonA" />
+      <text id="buttonB" />
+      <text id="start" />
+      <text id="select" />
+      <text id="leftShoulder1" />
+      <text id="rightShoulder1" />
+      <text id="leftShoulder2" />
+      <text id="rightShoulder2" />
+      <text id="leftStickClick" />
+      <text id="rightStickClick" />
+    </playermap>
+    <playermap id="player4 Keymap">
+      <text id="dpadUp" />
+      <text id="dpadDown" />
+      <text id="dpadLeft" />
+      <text id="dpadRight" />
+      <text id="buttonX" />
+      <text id="buttonY" />
+      <text id="buttonA" />
+      <text id="buttonB" />
+      <text id="start" />
+      <text id="select" />
+      <text id="leftShoulder1" />
+      <text id="rightShoulder1" />
+      <text id="leftShoulder2" />
+      <text id="rightShoulder2" />
+      <text id="leftStickClick" />
+      <text id="rightStickClick" />
+    </playermap>
+    <playermap id="player5 Keymap">
+      <text id="dpadUp" />
+      <text id="dpadDown" />
+      <text id="dpadLeft" />
+      <text id="dpadRight" />
+      <text id="buttonX" />
+      <text id="buttonY" />
+      <text id="buttonA" />
+      <text id="buttonB" />
+      <text id="start" />
+      <text id="select" />
+      <text id="leftShoulder1" />
+      <text id="rightShoulder1" />
+      <text id="leftShoulder2" />
+      <text id="rightShoulder2" />
+      <text id="leftStickClick" />
+      <text id="rightStickClick" />
+    </playermap>
+    <playermap id="player6 Keymap">
+      <text id="dpadUp" />
+      <text id="dpadDown" />
+      <text id="dpadLeft" />
+      <text id="dpadRight" />
+      <text id="buttonX" />
+      <text id="buttonY" />
+      <text id="buttonA" />
+      <text id="buttonB" />
+      <text id="start" />
+      <text id="select" />
+      <text id="leftShoulder1" />
+      <text id="rightShoulder1" />
+      <text id="leftShoulder2" />
+      <text id="rightShoulder2" />
+      <text id="leftStickClick" />
+      <text id="rightStickClick" />
+    </playermap>
+    <playermap id="player7 Keymap">
+      <text id="dpadUp" />
+      <text id="dpadDown" />
+      <text id="dpadLeft" />
+      <text id="dpadRight" />
+      <text id="buttonX" />
+      <text id="buttonY" />
+      <text id="buttonA" />
+      <text id="buttonB" />
+      <text id="start" />
+      <text id="select" />
+      <text id="leftShoulder1" />
+      <text id="rightShoulder1" />
+      <text id="leftShoulder2" />
+      <text id="rightShoulder2" />
+      <text id="leftStickClick" />
+      <text id="rightStickClick" />
+    </playermap>
+    <playermap id="player8 Keymap">
+      <text id="dpadUp" />
+      <text id="dpadDown" />
+      <text id="dpadLeft" />
+      <text id="dpadRight" />
+      <text id="buttonX" />
+      <text id="buttonY" />
+      <text id="buttonA" />
+      <text id="buttonB" />
+      <text id="start" />
+      <text id="select" />
+      <text id="leftShoulder1" />
+      <text id="rightShoulder1" />
+      <text id="leftShoulder2" />
+      <text id="rightShoulder2" />
+      <text id="leftStickClick" />
+      <text id="rightStickClick" />
+    </playermap>
+    <adreward id="adReward">
+      <integer id="value">0</integer>
+      <text id="name" />
+    </adreward>
+    <table id="id259435" name="PurchaseTable">PurchaseTable</table>
+    <boolean id="id540394" name="playingGame">true</boolean>
+    <real id="id360571" name="playerX">0</real>
+    <real id="id274490" name="playerY">0</real>
+    <real id="id316042" name="treasureX">0</real>
+    <real id="id336712" name="treasureY">0</real>
+    <integer id="id696170" name="score">0</integer>
+    <real id="id228553" name="distance">0</real>
+    <boolean id="id303658" name="homescreen">true</boolean>
+    <boolean id="id294139" name="backFromPlayAgain">false</boolean>
+    <boolean id="id684073" name="playingMusic">true</boolean>
+    <boolean id="id995396" name="gameStarted">false</boolean>
+    <integer id="id449066" name="lives">3</integer>
+    <integer id="id438761" name="hi score">0</integer>
+    <boolean id="id392331" name="new record">false</boolean>
+    <boolean id="id485765" name="tut diamond appear">false</boolean>
+    <boolean id="id208082" name="playSounds">true</boolean>
+    <boolean id="id434473" name="leftTouched">false</boolean>
+    <boolean id="id831769" name="rightTouched">false</boolean>
+    <real id="id766594" name="rushTime">10</real>
+    <real id="id570387" name="maxTime">10</real>
+    <text id="id887904" name="gameMode">classic</text>
+    <integer id="id110432" name="hi score rush">0</integer>
+    <integer id="id612360" name="tot diamond count">0</integer>
+    <text id="id119510" name="popUpTag" />
+    <boolean id="id998608" name="firstTime">true</boolean>
+    <text id="id940428" name="tutFrom" />
+    <boolean id="id893432" name="beastMode">false</boolean>
+    <boolean id="id291753" name="fromPAbut">false</boolean>
+  </attributes>
+</game>

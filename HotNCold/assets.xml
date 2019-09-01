@@ -1,0 +1,225 @@
+<?xml version="1.0" encoding="utf-8"?>
+<assets PGFVersion="0.25" GSCVersion="1.25.6227">
+  <sounds>
+    <music name="BoxCat_Games_-_26_-_Defeat">
+      <file name="BoxCat_Games_-_26_-_Defeat.mp3" size="2005816" />
+    </music>
+    <music name="BoxCat_Games_-_27_-_Against_the_Wall">
+      <file name="BoxCat_Games_-_27_-_Against_the_Wall.mp3" size="8373403" />
+    </music>
+    <music name="bensound-epic">
+      <file name="bensound-epic.mp3" size="2500023" />
+    </music>
+    <music name="bensound-summer">
+      <file name="bensound-summer.mp3" size="4349086" />
+    </music>
+    <sound name="diamondfoundsound2">
+      <file name="diamondfoundsound2.ogg" size="8568" />
+    </sound>
+    <sound name="playerhitsound">
+      <file name="playerhitsound.ogg" size="6483" />
+    </sound>
+    <sound name="232444__afleetingspeck__game-over-sounds-1">
+      <file name="232444__afleetingspeck__game-over-sounds-1.ogg" size="38833" />
+    </sound>
+  </sounds>
+  <images>
+    <image name="red circle">
+      <file name="red circle.png" size="296" />
+    </image>
+    <image name="yellow circle">
+      <file name="yellow circle.png" size="259" />
+    </image>
+    <image name="triangle-16">
+      <file name="triangle-16.png" size="214" />
+    </image>
+    <image name="circle-64">
+      <file name="circle-64.png" size="1015" />
+    </image>
+    <image name="arrow-24-16">
+      <file name="arrow-24-16.png" size="182" />
+    </image>
+    <image name="spikes circle">
+      <file name="spikes circle.png" size="451" />
+    </image>
+    <image name="yellow arrow 24">
+      <file name="yellow arrow 24.png" size="444" />
+    </image>
+    <image name="bounce ball">
+      <file name="bounce ball.png" size="294" />
+    </image>
+    <image name="pause-16">
+      <file name="pause-16.png" size="192" />
+    </image>
+    <image name="squircle4">
+      <file name="squircle4.png" size="3179" />
+    </image>
+    <image name="1">
+      <file name="1.png" size="1544" />
+    </image>
+    <image name="2">
+      <file name="2.png" size="896" />
+    </image>
+    <image name="3">
+      <file name="3.png" size="895" />
+    </image>
+    <image name="4">
+      <file name="4.png" size="897" />
+    </image>
+    <image name="5">
+      <file name="5.png" size="896" />
+    </image>
+    <image name="6">
+      <file name="6.png" size="897" />
+    </image>
+    <image name="7">
+      <file name="7.png" size="896" />
+    </image>
+    <image name="8">
+      <file name="8.png" size="897" />
+    </image>
+    <image name="9">
+      <file name="9.png" size="893" />
+    </image>
+    <image name="10">
+      <file name="10.png" size="901" />
+    </image>
+    <image name="11">
+      <file name="11.png" size="900" />
+    </image>
+    <image name="12">
+      <file name="12.png" size="900" />
+    </image>
+    <image name="13">
+      <file name="13.png" size="900" />
+    </image>
+    <image name="14">
+      <file name="14.png" size="902" />
+    </image>
+    <image name="15">
+      <file name="15.png" size="903" />
+    </image>
+    <image name="16">
+      <file name="16.png" size="896" />
+    </image>
+    <image name="17">
+      <file name="17.png" size="899" />
+    </image>
+    <image name="18">
+      <file name="18.png" size="1658" />
+    </image>
+    <image name="homescreentitle1">
+      <file name="homescreentitle1.png" size="4911" />
+    </image>
+    <image name="button_theme27_14">
+      <file name="button_theme27_14.png" size="85523" />
+    </image>
+    <image name="button_theme27_23">
+      <file name="button_theme27_23.png" size="85523" />
+    </image>
+    <image name="button_theme27_41">
+      <file name="button_theme27_41.png" size="85523" />
+    </image>
+    <image name="button_theme27_42">
+      <file name="button_theme27_42.png" size="85523" />
+    </image>
+    <image name="button_theme27_45">
+      <file name="button_theme27_45.png" size="85523" />
+    </image>
+    <image name="button_theme27_46">
+      <file name="button_theme27_46.png" size="85523" />
+    </image>
+    <image name="button_theme27_62">
+      <file name="button_theme27_62.png" size="85523" />
+    </image>
+    <image name="button_theme27_111">
+      <file name="button_theme27_111.png" size="85511" />
+    </image>
+    <image name="button_theme27_118">
+      <file name="button_theme27_118.png" size="85523" />
+    </image>
+    <image name="button_theme27_72">
+      <file name="button_theme27_72.png" size="85523" />
+    </image>
+    <image name="button_theme1_21">
+      <file name="button_theme1_21.png" size="85523" />
+    </image>
+    <image name="icon_theme4_142">
+      <file name="icon_theme4_142.png" size="88123" />
+    </image>
+    <image name="button_theme5_142">
+      <file name="button_theme5_142.png" size="85523" />
+    </image>
+    <image name="icon_theme13_72">
+      <file name="icon_theme13_72.png" size="88123" />
+    </image>
+    <image name="button_theme2_145">
+      <file name="button_theme2_145.png" size="85523" />
+    </image>
+    <image name="icon_theme13_71">
+      <file name="icon_theme13_71.png" size="88123" />
+    </image>
+    <image name="icon_theme2_144">
+      <file name="icon_theme2_144.png" size="88123" />
+    </image>
+    <image name="icon_theme3_55">
+      <file name="icon_theme3_55.png" size="88123" />
+    </image>
+    <image name="button_theme1_0">
+      <file name="button_theme1_0.png" size="216294" />
+    </image>
+    <image name="button_theme9_0">
+      <file name="button_theme9_0.png" size="216294" />
+    </image>
+    <image name="button_theme27_104">
+      <file name="button_theme27_104.png" size="85523" />
+    </image>
+    <image name="icons8-left-2-50">
+      <file name="icons8-left-2-50.png" size="674" />
+    </image>
+    <image name="icons8-right-2-50">
+      <file name="icons8-right-2-50.png" size="667" />
+    </image>
+    <image name="icon_theme1_27">
+      <file name="icon_theme1_27.png" size="88123" />
+    </image>
+    <image name="icons8-forward-50">
+      <file name="icons8-forward-50.png" size="359" />
+    </image>
+    <image name="icon_theme13_111">
+      <file name="icon_theme13_111.png" size="88123" />
+    </image>
+    <image name="icon_theme13_104">
+      <file name="icon_theme13_104.png" size="88123" />
+    </image>
+    <image name="icon_theme13_118">
+      <file name="icon_theme13_118.png" size="88123" />
+    </image>
+    <image name="icon_theme13_21">
+      <file name="icon_theme13_21.png" size="88123" />
+    </image>
+    <image name="button_theme4_0">
+      <file name="button_theme4_0.png" size="216294" />
+    </image>
+    <image name="icon_theme13_14">
+      <file name="icon_theme13_14.png" size="88123" />
+    </image>
+    <image name="button_theme28_0">
+      <file name="button_theme28_0.png" size="216294" />
+    </image>
+    <image name="noun_19125_cc">
+      <file name="noun_19125_cc.png" size="4080" />
+    </image>
+    <image name="button_theme2_0">
+      <file name="button_theme2_0.png" size="216294" />
+    </image>
+    <image name="button_theme5_0">
+      <file name="button_theme5_0.png" size="216294" />
+    </image>
+    <image name="Screenshot_20180330-160536">
+      <file name="Screenshot_20180330-160536.png" size="45753" />
+    </image>
+  </images>
+  <fonts />
+  <behaviors />
+</assets>
